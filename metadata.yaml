@@ -8,6 +8,9 @@ contributor:
     - Boutwood, C. E. (Charles Edward)
     gutenberg_agent_id: '51591'
     url: http://www.gutenberg.org/2009/agents/51591
+covers:
+- cover_type: archival
+  image_path: 61715-h/images/cover.jpg
 creator:
   author:
     agent_name: Knox, Thomas Wallace
@@ -20,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5229
     wikipedia: https://en.wikipedia.org/wiki/Thomas_W._Knox
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61715#Captain-John-Crane-1800-1815
 gutenberg_issued: '2020-03-31'
 gutenberg_type: Text
 identifiers:
