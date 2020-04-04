@@ -1,0 +1,37 @@
+_repo: Captain-John-Crane-1800-1815_61715
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Boutwood, Charles Edward
+    aliases:
+    - Boutwood, Chas. E. (Charles Edward)
+    - Boutwood, C. E. (Charles Edward)
+    gutenberg_agent_id: '51591'
+    url: http://www.gutenberg.org/2009/agents/51591
+creator:
+  author:
+    agent_name: Knox, Thomas Wallace
+    aliases:
+    - Knox, Thomas W.
+    - Knox, Thos. W.
+    birthdate: 1835
+    deathdate: 1896
+    gutenberg_agent_id: '5229'
+    url: http://www.gutenberg.org/2009/agents/5229
+    wikipedia: https://en.wikipedia.org/wiki/Thomas_W._Knox
+description: ''
+gutenberg_issued: '2020-03-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61715'
+  lccn: '13005731'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- History -- War of 1812 -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: Captain John Crane, 1800-1815
+url: http://www.gutenberg.org/ebooks/61715
